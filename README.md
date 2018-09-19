@@ -31,4 +31,11 @@
 3. 문단과 문단 사이는 빈 줄(엔터키 두 번)로 구분한다. 
 
 
+https://github.com/JinYongHwa/AndroidPrograming
+
+
+yhjin@hhsoft.co.kr
+
+https://developer.android.com/studio/install?hl=ko)
+
 
